@@ -1,0 +1,24 @@
+# Ignorar archivos de log
+logs/
+*.log
+
+# Ignorar archivos compilados
+*.class
+*.jar
+*.war
+
+# Ignorar archivos y directorios generados por IDEs
+.idea/
+.vscode/
+
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de dependencias
+node_modules/
+package-lock.json
+
+# Ignorar archivos .env
+.env
+.env.*
